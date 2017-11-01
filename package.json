@@ -61,7 +61,7 @@
     "eslint-config-mourner": "*",
     "fs-extra": "*",
     "jscodeshift": "*",
-    "lerna": "*",
+    "lerna": "2.4.0",
     "load-json-file": "*",
     "meow": "*",
     "progress": "*",
